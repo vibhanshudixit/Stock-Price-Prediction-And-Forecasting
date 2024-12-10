@@ -65,7 +65,9 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Acknowledgments
 Inspiration from financial data prediction challenges.
+
 -Use of TensorFlow/Keras documentation and tutorials for model implementation.
+
 -Use of yahoo finance for dataset of stocks
 
 ## Author
